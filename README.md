@@ -31,8 +31,6 @@ DATABASE_URL="postgresql://postgres.isibgtqruvvtzvvmvggb:12345678@aws-0-eu-centr
 DIRECT_URL="postgresql://postgres.isibgtqruvvtzvvmvggb:12345678@aws-0-eu-central-1.pooler.supabase.com:5432/postgres"
 ```
 
-> Create a database in MongoDB named nextmart
-
 ## NPM SCRIPTS
 
 ```bash
