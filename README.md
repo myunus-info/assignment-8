@@ -41,3 +41,5 @@ $ npm run dev           # start in development mode
 $ npm run prod          # production build
 $ npm run build         # compile typescript code into javascript
 ```
+
+- [POSTMAN API DOCUMENTATION](https://www.postman.com/winter-capsule-905954/public-work-space/collection/rrxtu6v/bike-service)
